@@ -6,6 +6,7 @@
             <p class="text-md mb-4 text-center">Projects are assigned based on your preferences, if preferences don't match then projects will be assigned randomly.<br>Add or change your preffered keywords by visiting <a  class="underline text-blue-500" href="/guest/preferences">preferences</a> tab.</p>
         </div>
 
+        
 
         @unless(count($projects) == 0)
         <div class="mb-2 mx-4 flex justify-between">
