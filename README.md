@@ -1,6 +1,6 @@
 ## Setup Instructions
 
-1. Clone the repository: `git clone https://github.com/rajafawady/website.git`
+1. Clone the repository: `https://github.com/mfarooq19/OpenHouseAssign3`
 2. Install Dependencies: Run `composer install`
 3. Generate Application Key: Execute `php artisan key:generate`
 4. Configure Database: Update settings in the .env file
